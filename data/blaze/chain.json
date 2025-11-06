@@ -1,0 +1,33 @@
+{
+  "subnetId": "j6HXQWdpRhX7yHMWLehUyYDjypHa455vP5tuiXZ81nkPgveFV",
+  "network": "mainnet",
+  "categories": [
+    "GAMING"
+  ],
+  "name": "Blaze",
+  "description": "Layer 1 blockchain powering streaming.",
+  "logo": "https://cdn.snowpeer.io/blaze.png",
+  "website": "https://blaze.stream/",
+  "socials": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/blaze_stream"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.com/invite/NSJXekVH7V"
+    }
+  ],
+  "chains": [
+    {
+      "blockchainId": "2SfshBPqRJexmqdWBY2xYSTq2Rp2dDisuax7nQB6GyNqPjSWWY",
+      "name": "Blaze",
+      "description": "",
+      "evmChainId": 46975,
+      "vmName": "EVM",
+      "vmId": "",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

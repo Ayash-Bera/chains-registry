@@ -1,0 +1,24 @@
+{
+  "subnetId": "pchqewRRQHwx1B3XJEq9p2HGSdjrHsyv48YzVUWXZbrmH4TM6",
+  "network": "mainnet",
+  "categories": [
+    "GAMING"
+  ],
+  "name": "KOROSHI",
+  "description": "The Koroshi L1 powers the entire Koroshi ecosytem, composed of Koroshi Gaming and Koroshi Studio. Koroshi Studio features a dynamic NFT collection and a competitive gaming platform designed to captivate both casual participants and hardcore gamers.",
+  "logo": "https://cdn.snowpeer.io/koroshi.png",
+  "website": "https://www.thekoroshi.com/",
+  "socials": [],
+  "chains": [
+    {
+      "blockchainId": "26Ee4Lm4R1bQbQLQU66exLiWgSC9qdDPJCvFpzVsd3raLrHBGZ",
+      "name": "KOROSHI",
+      "description": "",
+      "evmChainId": 379,
+      "vmName": "EVM",
+      "vmId": "",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

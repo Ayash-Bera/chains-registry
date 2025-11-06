@@ -1,0 +1,24 @@
+{
+  "subnetId": "QL49tBK9T84NSHQYYSP33Ru7h1KcybDR6MGA8dARVWhw1zLB8",
+  "network": "mainnet",
+  "categories": [
+    "RWA"
+  ],
+  "name": "Watr",
+  "description": "Watr is the infrastructure powering the expansion of commodity trade, financing, and participation—built for institutions, traders, and pioneers shaping the future.",
+  "logo": "https://cdn.snowpeer.io/watr.svg",
+  "website": "https://www.watr.org",
+  "socials": [],
+  "chains": [
+    {
+      "blockchainId": "EypLFUSzC2wdbFJovYS3Af1E7ch1DJf7KxKoGR5QFPErxQkG1",
+      "name": "Watr",
+      "description": "",
+      "evmChainId": 192,
+      "vmName": "EVM",
+      "vmId": "",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

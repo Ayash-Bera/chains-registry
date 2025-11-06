@@ -1,0 +1,25 @@
+{
+  "subnetId": "CGnV1d5ErH1fqncaggArg1UmSrpmCWvDTr1wU3vuXwDT6PHpD",
+  "network": "mainnet",
+  "categories": [
+    "GAMING",
+    "NFT"
+  ],
+  "name": "Hunting Party",
+  "description": "A play-to-earn hunting game with teams, memes, and rewards.",
+  "logo": "https://cdn.snowpeer.io/huntingparty.jpg",
+  "website": "https://huntingparty.smolapa.com",
+  "socials": [],
+  "chains": [
+    {
+      "blockchainId": "RVMTSJQauubhivGsm1zES192nNqh66mP1Cnmb4Jo2n3A7rStE",
+      "name": "huntingparty",
+      "description": "",
+      "evmChainId": null,
+      "vmName": "EVM",
+      "vmId": "o1Fwxyp3gSCjw2egiGTFfYGu2mWaks3do7C83E6CursLFLTeU",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

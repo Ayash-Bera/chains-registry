@@ -1,0 +1,24 @@
+{
+  "subnetId": "7e3ziXMNuq29Y6nBBvWQZYAWYKyvhN5bhvmoNquNEbvFR51ad",
+  "network": "mainnet",
+  "categories": [
+    "DATA"
+  ],
+  "name": "Turf",
+  "description": "TURF is an intent-driven data orchestration protocol that powers on-demand access to structured, high-context data. We intelligently route requests to relevant sources—bringing real-time, semantically aligned data to the agents and models that need it.",
+  "logo": "",
+  "website": "https://turf.network",
+  "socials": [],
+  "chains": [
+    {
+      "blockchainId": "2bDPqb1bsLWxAjJ6WhZA5zNxPaurWHJvQynuzD6CnM8jieAvGS",
+      "name": "TurfNetwork",
+      "description": "",
+      "evmChainId": 62334,
+      "vmName": "EVM",
+      "vmId": "",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

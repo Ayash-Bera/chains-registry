@@ -1,0 +1,29 @@
+{
+  "subnetId": "2eq3DtJp4cWzvGd8Q3ZFo8VpZmmD235Xoxgq6CmX8anZ69M54",
+  "network": "mainnet",
+  "categories": [
+    "MARKETING"
+  ],
+  "name": "The Growth Protocol",
+  "description": "Purpose-built L1 infrastructure layer for digital marketing and growth applications in Web3 using blockchain technology.",
+  "logo": "https://cdn.snowpeer.io/growth.png",
+  "website": "https://growthprotocol.xyz",
+  "socials": [
+    {
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/company/the-growth-protocol"
+    }
+  ],
+  "chains": [
+    {
+      "blockchainId": "2DnTLFrwyrvDDdWWzXBZqnNZXsHbLDGBU2kkrenaF5M5xFgbDY",
+      "name": "The Growth Protocol",
+      "description": "",
+      "evmChainId": 61587,
+      "vmName": "EVM",
+      "vmId": "",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

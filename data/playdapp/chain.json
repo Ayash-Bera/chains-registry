@@ -1,0 +1,39 @@
+{
+  "subnetId": "2bSdrPJaGvsDFeJtC7v9ut4m2vLKBgs2dJzRsDpxYKbqTyBmr9",
+  "network": "mainnet",
+  "categories": [
+    "GAMING"
+  ],
+  "name": "Playdapp",
+  "description": "PlayDapp offers a platform designed to bring Web2 users into the Web3 ecosystem. It enables players to engage in games and transactions without the need for cryptocurrency. Through its SDK, PlayDapp helps developers integrate Web3 elements into traditional apps, fostering interoperability across games, metaverses, and more.",
+  "logo": "https://cdn.snowpeer.io/pda2.png",
+  "website": "https://playdapp.io",
+  "socials": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/playdapp_io"
+    },
+    {
+      "name": "facebook",
+      "url": "https://www.facebook.com/playdapp.io"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.com/invite/playdapp-537515978561683466"
+    }
+  ],
+  "chains": [
+    {
+      "blockchainId": "jAvZZkDuokp67yH8QQm4AXv1qUm3fwhxUUo2mmMsmopdgHChp",
+      "name": "PlaydappNetwork",
+      "description": "PlayDapp offers a platform designed to bring Web2 users into the Web3 ecosystem. It enables players to engage in games and transactions without the need for cryptocurrency. Through its SDK, PlayDapp helps developers integrate Web3 elements into traditional apps, fostering interoperability across games, metaverses, and more.",
+      "evmChainId": 504441,
+      "vmName": "EVM",
+      "vmId": "cRJoFPANq1613xoqB9fKgNTaJG3ogR87p4gziEZjyWraPG2u3",
+      "rpcUrls": [
+        "https://subnets.avax.network/playdappne/mainnet/rpc"
+      ],
+      "assets": []
+    }
+  ]
+}

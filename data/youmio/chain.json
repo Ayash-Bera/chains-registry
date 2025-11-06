@@ -1,0 +1,24 @@
+{
+  "subnetId": "ZjyoAfPS1qaSzLKkCVCc3koXf7KLqop7G9viy93oSkxJf6odZ",
+  "network": "mainnet",
+  "categories": [
+    "AI"
+  ],
+  "name": "Youmio",
+  "description": "The first Layer 1 built from the ground up as an agent chain.",
+  "logo": "https://cdn.snowpeer.io/youmio.png",
+  "website": "https://youmio.ai",
+  "socials": [],
+  "chains": [
+    {
+      "blockchainId": "2d64dyhZfegk2hZBt49xGmMRPfqj5mufhW5tR1wX9xPJintuNW",
+      "name": "Youmio",
+      "description": "",
+      "evmChainId": 61360,
+      "vmName": "EVM",
+      "vmId": "",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

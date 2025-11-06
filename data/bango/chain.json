@@ -1,0 +1,29 @@
+{
+  "subnetId": "4Wuefof5Lp2v5KfmJRnsGJz9HPX4UzWP7DZC5SyhQcXRQkyPp",
+  "network": "mainnet",
+  "categories": [
+    "PREDICTION"
+  ],
+  "name": "BANGO",
+  "description": "Permissionless prediction markets. Bet on anything. Powered by memes, fueled by belief.",
+  "logo": "https://cdn.snowpeer.io/bango.svg",
+  "website": "https://www.bango.fun",
+  "socials": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/BangoDotFun"
+    }
+  ],
+  "chains": [
+    {
+      "blockchainId": "QUmGffHpjgMeHJVobZDjwvFKAcP5Rs5FQsURJexDjKir2Ljp4",
+      "name": "BANGO",
+      "description": "",
+      "evmChainId": 5506,
+      "vmName": "EVM",
+      "vmId": "",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

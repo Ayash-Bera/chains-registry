@@ -1,0 +1,22 @@
+{
+  "subnetId": "hqqtt4VGmzSACDn2yYxTFMhHu9RpFTECEhbexb4bXu2w6Pxtf",
+  "network": "mainnet",
+  "categories": [],
+  "name": "Wow",
+  "description": "",
+  "logo": "",
+  "website": "",
+  "socials": [],
+  "chains": [
+    {
+      "blockchainId": "2MvLKR8AP3tz1yFQhLRnHBWrXFR4wfojysCHMAGuJVvb8ayRNK",
+      "name": "Wow",
+      "description": "",
+      "evmChainId": 98968,
+      "vmName": "EVM",
+      "vmId": "",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

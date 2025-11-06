@@ -1,0 +1,24 @@
+{
+  "subnetId": "2LbGgyVZE5aMMYPp3h1F2MkKbjefR51nSZWaZzarDZf8GThCcX",
+  "network": "mainnet",
+  "categories": [
+    "MUSIC"
+  ],
+  "name": "TITAN",
+  "description": "TITAN CONTENT will create next-gen K-pop artists and content, unique fan engagement and experience in virtual/web3 and the real world.",
+  "logo": "",
+  "website": "https://www.thetitan.xyz",
+  "socials": [],
+  "chains": [
+    {
+      "blockchainId": "24gRTyzFmXUPebVwzQHuwU6RFeKHHDxRftRVaSAe7MHRXWxZ4S",
+      "name": "TITANL",
+      "description": "",
+      "evmChainId": 84358,
+      "vmName": "EVM",
+      "vmId": "",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

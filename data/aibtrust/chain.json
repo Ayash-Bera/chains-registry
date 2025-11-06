@@ -1,0 +1,24 @@
+{
+  "subnetId": "2qJPnDkDH6hn3PVzxzkUdTqDD1HeAnTT8FL4t2BJagc2iuq8j7",
+  "network": "mainnet",
+  "categories": [
+    "HEALTH"
+  ],
+  "name": "AIBTRUST",
+  "description": "",
+  "logo": "",
+  "website": "https://aibtrust.jp/",
+  "socials": [],
+  "chains": [
+    {
+      "blockchainId": "2FUHgWJcZ4j8FrEi1DsdGyq6vMWQXeQGbZLuzcU6sFAazvnrYd",
+      "name": "AIBTRUST",
+      "description": "Aibrust utilizes Web3 technology to enhance secure medical data collection, enabling rapid multi-site research and incentivized data access for healthcare providers.",
+      "evmChainId": 80000,
+      "vmName": "EVM",
+      "vmId": "VkeZMFzYTFXZeDMMfniZscbUX1SR8mydk7ZhzAPKfuvwuehxc",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

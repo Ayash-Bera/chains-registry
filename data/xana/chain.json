@@ -1,0 +1,44 @@
+{
+  "subnetId": "ii7zCu8JNnYYgPT8PwpVYiTS1gcK5RWJfsyuPXTDv8Bn9wspY",
+  "network": "mainnet",
+  "categories": [
+    "METAVERSE",
+    "NFT",
+    "AI",
+    "GAMING"
+  ],
+  "name": "XANA",
+  "description": "XANA is a Web3 platform focused on creating metaverse experiences with blockchain integration. It allows users to interact in a virtual world with avatars, digital assets, and NFTs, enabling decentralized and immersive gaming and social activities. XANA aims to build a bridge between reality and the metaverse, offering businesses and users opportunities to engage in virtual economy and community-building.",
+  "logo": "https://cdn.snowpeer.io/xana.svg",
+  "website": "https://xana.net",
+  "socials": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/xana_net"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/xana_news"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.com/invite/Xana"
+    },
+    {
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/company/xana-net/"
+    }
+  ],
+  "chains": [
+    {
+      "blockchainId": "2MrmXmx4nrSn5BS3EAtWg5Pf9madiBoN7MRaByM88g49VArjDt",
+      "name": "XANA Chain",
+      "description": "",
+      "evmChainId": 8888,
+      "vmName": "EVM",
+      "vmId": "v1xiWupQDfF6f2KfDpe8bFd8nqUYo6z27YbaSCHrw3SMf5Xzu",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

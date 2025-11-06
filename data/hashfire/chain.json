@@ -1,0 +1,26 @@
+{
+  "subnetId": "2LwJgsZLT52eAaxLTMLtBQeiUnEZuMibCqpAzJSQWHvRPs1iWN",
+  "network": "mainnet",
+  "categories": [
+    "FINTECH",
+    "AGREEMENTS",
+    "RWA"
+  ],
+  "name": "Hashfire",
+  "description": "Hashfire converts any contract into an on-chain, verifiable agreement with built-in payment logic and real-time financing options.",
+  "logo": "https://cdn.snowpeer.io/hashfire.svg",
+  "website": "https://hashfire.xyz",
+  "socials": [],
+  "chains": [
+    {
+      "blockchainId": "2vcBHFK7jiv74dyYeUCUiCsKy2jbWx6xEQzNfQPiLmYidBaDfX",
+      "name": "Hashfire",
+      "description": "",
+      "evmChainId": 7272,
+      "vmName": "EVM",
+      "vmId": "",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "subnetId": "TfTBHvcxpBfxPntMpadskcZTH8AG5rgkrNyz2DzeByNMsZkMo",
+  "network": "mainnet",
+  "categories": [
+    "GAMING"
+  ],
+  "name": "Animalia",
+  "description": "An immersive blockchain gaming ecosystem where players collect, breed, and battle fantasy creatures—powered by play-to-earn mechanics and true digital ownership.",
+  "logo": "https://cdn.snowpeer.io/animalia.png",
+  "website": "https://animalia.games/",
+  "socials": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/Animalia_games"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.gg/animaliagames"
+    }
+  ],
+  "chains": [
+    {
+      "blockchainId": "QgQ2ATB5Ca6US2jur1iPrfBtFDGNSQHXcnSzfv19ZZ2vLZSrk",
+      "name": "Animalia",
+      "description": "",
+      "evmChainId": 8787,
+      "vmName": "EVM",
+      "vmId": "",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

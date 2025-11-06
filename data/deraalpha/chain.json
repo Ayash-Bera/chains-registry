@@ -1,0 +1,22 @@
+{
+  "subnetId": "B7hA9WibSJu2fKdHT2XZs2RYg1rZTtxwg6cMYBKYjvcJjbqsp",
+  "network": "mainnet",
+  "categories": [],
+  "name": "Deraalpha",
+  "description": "",
+  "logo": "",
+  "website": "",
+  "socials": [],
+  "chains": [
+    {
+      "blockchainId": "2XCTEc8CfNK9MtQWYMfgNt32QjZsZqq92LH7eTV5xY8YjY44du",
+      "name": "Deraalpha",
+      "description": "",
+      "evmChainId": 20250320,
+      "vmName": "EVM",
+      "vmId": "",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

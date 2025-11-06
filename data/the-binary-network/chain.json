@@ -1,0 +1,24 @@
+{
+  "subnetId": "23dqTMHK186m4Rzcn1ukJdmHy13nqido4LjTp5Kh9W6qBKaFib",
+  "network": "mainnet",
+  "categories": [
+    "INFRA"
+  ],
+  "name": "The Binary Network",
+  "description": "The Binary Network integrates any dApp, on any chain inside telecommunication apps. Put your project in front of 169 million users.",
+  "logo": "https://cdn.snowpeer.io/bnry.png",
+  "website": "https://thebinaryholdings.com",
+  "socials": [],
+  "chains": [
+    {
+      "blockchainId": "J3MYb3rDARLmB7FrRybinyjKqVTqmerbCr9bAXDatrSaHiLxQ",
+      "name": "BnryMainnet",
+      "description": "",
+      "evmChainId": 836,
+      "vmName": "EVM",
+      "vmId": "",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

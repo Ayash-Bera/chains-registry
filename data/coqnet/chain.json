@@ -1,0 +1,37 @@
+{
+  "subnetId": "5moznRzaAEhzWkNTQVdT1U4Kb9EU7dbsKZQNmHwtN5MGVQRyT",
+  "network": "mainnet",
+  "categories": [
+    "GAMING"
+  ],
+  "name": "Coqnet",
+  "description": "Coqnet is a Layer-1 blockchain within the Avalanche ecosystem, designed to empower memecoin communities. It combines Avalanche's robust infrastructure with a unique identity and features tailored to support vibrant communities, innovative developers, and dedicated validators.",
+  "logo": "https://cdn.snowpeer.io/coqnet.svg",
+  "website": "https://coqnet.io",
+  "socials": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/coqnet_io"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/CoqnetClub"
+    },
+    {
+      "name": "youtube",
+      "url": "https://www.youtube.com/@Coqnet"
+    }
+  ],
+  "chains": [
+    {
+      "blockchainId": "23aQU1537YseCJmXW11XHjPra6bptBSps5D4xXupt8hN2QUeaG",
+      "name": "Coqnet",
+      "description": "",
+      "evmChainId": 42069,
+      "vmName": "EVM",
+      "vmId": "",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

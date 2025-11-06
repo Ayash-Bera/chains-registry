@@ -1,0 +1,43 @@
+{
+  "subnetId": "2nCzBViQ5jxLaxkg9TABx6oXu1UGU7chM7G6XzPvW9ehP8RfrJ",
+  "network": "mainnet",
+  "categories": [
+    "GAMING"
+  ],
+  "name": "NUMINE",
+  "description": "NUMINE serves as a Web 3.0 gaming platform that functions as a chain and ecosystem, allowing content developers and users to collectively influence the direction of the industry.",
+  "logo": "https://cdn.snowpeer.io/numine.png",
+  "website": "https://numine.io",
+  "socials": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/numineverse"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/numineverse"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.com/invite/numine"
+    },
+    {
+      "name": "medium",
+      "url": "https://medium.com/@numineverse"
+    }
+  ],
+  "chains": [
+    {
+      "blockchainId": "2c1BN4N9qEhNmW4yCpeLK24SfjFQLyS1Z7FtgRDaYxZWFUUKxf",
+      "name": "numine",
+      "description": "",
+      "evmChainId": 8021,
+      "vmName": "EVM",
+      "vmId": "bVvAsrLWieiBKwjttxdaYRDaTDmn5ixjN5bDp8fJekCJLiVQE",
+      "rpcUrls": [
+        "https://subnets.avax.network/numi/mainnet/rpc"
+      ],
+      "assets": []
+    }
+  ]
+}

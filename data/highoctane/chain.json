@@ -1,0 +1,24 @@
+{
+  "subnetId": "27mZh9HyNwGdqfkQDWabzo9BonhPSzh1qwdzaDsmPJDn1woCVV",
+  "network": "mainnet",
+  "categories": [
+    "GAMING"
+  ],
+  "name": "HighOctane",
+  "description": "HighOctane is the mainnet subnet for Gold Fever, a thrilling survival MMORPG where you can mine and fight for $NGL in a decentralized blockchain economy driven by #CommercialNFTs owners.",
+  "logo": "https://cdn.snowpeer.io/octane.png",
+  "website": "",
+  "socials": [],
+  "chains": [
+    {
+      "blockchainId": "25friWasfe2pMdVHQAh5inDBz5XQq42a1V8DYqAGnxeKks5Bkp",
+      "name": "HighOctane",
+      "description": "",
+      "evmChainId": 1853,
+      "vmName": "EVM",
+      "vmId": "YtfK8Sj57XHSE5GvaTJPzudH3Q9x1bfcK27jvJQjMgdoqB9JW",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

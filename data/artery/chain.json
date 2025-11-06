@@ -1,0 +1,24 @@
+{
+  "subnetId": "25VdGtdQPejyffNLpTqh4BH2NABXT8Zxup6ee3B4htrMryofUB",
+  "network": "mainnet",
+  "categories": [
+    "GAMING"
+  ],
+  "name": "Artery",
+  "description": "",
+  "logo": "https://cdn.snowpeer.io/artery.svg",
+  "website": "https://studioartery.com/",
+  "socials": [],
+  "chains": [
+    {
+      "blockchainId": "rBabVhbJKGcKTEpzm9PdpQ7ModsxNpYQZ6ALN6g9p5JKjqfw6",
+      "name": "Artery",
+      "description": "",
+      "evmChainId": 4313,
+      "vmName": "EVM",
+      "vmId": "",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

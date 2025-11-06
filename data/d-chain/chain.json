@@ -1,0 +1,24 @@
+{
+  "subnetId": "2YNtQRWKQiTG7nq8WuVXD8opx6ocsEY2ZFW9eZcjArtMejeS7T",
+  "network": "mainnet",
+  "categories": [
+    "LOYALTY"
+  ],
+  "name": "D-Chain",
+  "description": "D-Chain is a private blockchain with an unique architecture that offers high performance and scalability for corporates. Doğuş Teknoloji which created the D-Chain is a leading technology company specializing in Generative AI, Data Analytics, System Integration, CRM/ERP solutions, Cybersecurity, IoT, and Web/Mobile Technologies, offering innovative solutions for both local and global markets.",
+  "logo": "https://cdn.snowpeer.io/dchain.png",
+  "website": "https://www.d-teknoloji.com.tr",
+  "socials": [],
+  "chains": [
+    {
+      "blockchainId": "2ZiR1Bro5E59siVuwdNuRFzqL95NkvkbzyLBdrsYR9BLSHV7H4",
+      "name": "D Chain",
+      "description": "",
+      "evmChainId": null,
+      "vmName": "EVM",
+      "vmId": "X2V8j11wgAHZzcCyf43L4W2qvToBy5LLc6Ve3oPuXRjJjFaC4",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

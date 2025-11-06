@@ -1,0 +1,24 @@
+{
+  "subnetId": "2QFrcg2dZbfyQaaSvakAQyXi6bFfSFGSzvi2ELUECbXK5wCAWB",
+  "network": "mainnet",
+  "categories": [
+    "GAMING"
+  ],
+  "name": "Deboard",
+  "description": "DeBoard is a platform that strengthens real economies and promotes open trade in casual games. Built on the AVAX L1, it allows gamers to own and trade in-game items without crypto wallets, offering token presale opportunities instead of a node sale.",
+  "logo": "https://cdn.snowpeer.io/deboard.svg",
+  "website": "https://deboard.gg/",
+  "socials": [],
+  "chains": [
+    {
+      "blockchainId": "2poYwjB2XAhYPuqLHy59rdp3ceBanBvx4oNKvxE7EQzqdFZz7v",
+      "name": "Deboard",
+      "description": "",
+      "evmChainId": 29732,
+      "vmName": "EVM",
+      "vmId": "X85vWanmPMegBSwogwmcFcQb6WSMXYWS7yVz5JZ1Qc6Gqy8At",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

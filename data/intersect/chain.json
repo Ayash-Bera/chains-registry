@@ -1,0 +1,37 @@
+{
+  "subnetId": "2UPuVAx5yFubvDPm6CYywT4mYAdTW3zM1XXD7R7ic8s2zQhF8U",
+  "network": "mainnet",
+  "categories": [
+    "METAVERSE"
+  ],
+  "name": "intersect",
+  "description": "Intersect is a platform that connects Web3 technology with real-world applications. It offers a unique journey for users, featuring campaigns, exclusive rewards, and airdrops. The platform is preparing for future campaigns, including staking and racing, designed to bring users into the next level of Web3 experiences.",
+  "logo": "https://cdn.snowpeer.io/intersect.png",
+  "website": "https://www.intersect.to/",
+  "socials": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/0xintersect"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/+Omj6mbK24ftlMDlk"
+    },
+    {
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/company/0xintersect/"
+    }
+  ],
+  "chains": [
+    {
+      "blockchainId": "2Ec9g5vbwwoy7MEyjmjjEjuS6FzaeToBm1KVbvDU6HeKsSNVTF",
+      "name": "intersect",
+      "description": "",
+      "evmChainId": 1216,
+      "vmName": "EVM",
+      "vmId": "oS771BfpsymUfaGKNyR27cY8SwumaNwq9GTVkQpAQ4WCdughz",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

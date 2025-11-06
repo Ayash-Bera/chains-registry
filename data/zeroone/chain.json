@@ -1,0 +1,39 @@
+{
+  "subnetId": "nKJuE11HePLrmp391sfoFVqZR7Fw5VJ1XjyznsogsjebxwiAg",
+  "network": "mainnet",
+  "categories": [
+    "ART"
+  ],
+  "name": "zeroone",
+  "description": "ZeroOne is a platform focused on cultural distribution, connecting creators with audiences through digital art and NFTs. It offers a marketplace for artists to sell and showcase their works while leveraging blockchain technology for secure transactions and ownership. ZeroOne aims to innovate the way cultural assets are distributed in the digital world.",
+  "logo": "https://cdn.snowpeer.io/zero.jpg",
+  "website": "https://zeroone.art",
+  "socials": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/zero________one"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.com/invite/aJjpqXWJBX"
+    },
+    {
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/company/zeroone-art/"
+    }
+  ],
+  "chains": [
+    {
+      "blockchainId": "2Xj6iZeySuuUTZR5jYjhQ7yQ84q8AtDWnAJ2vS9BmmXBNJhYD1",
+      "name": "zerooneMainnet",
+      "description": "The subnet is used to facilitate gas-less transactions for the zeroone platform. A platform that allows users to create, share and collect without having to worry about fees.",
+      "evmChainId": 27827,
+      "vmName": "EVM",
+      "vmId": "vuT2CesVBU7Jm6VtFnEVF8uX1Y7iMzLPWJgLstqU9vtd1x3Mz",
+      "rpcUrls": [
+        "https://subnets.avax.network/zeroonemai/mainnet/rpc"
+      ],
+      "assets": []
+    }
+  ]
+}

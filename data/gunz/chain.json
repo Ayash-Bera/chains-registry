@@ -1,0 +1,26 @@
+{
+  "subnetId": "2MbQjnTg3yxEtZBfnamboi7K9AajwNq7WExiwReBQSBtwbBVer",
+  "network": "mainnet",
+  "categories": [
+    "GAMING"
+  ],
+  "name": "GUNZ",
+  "description": "",
+  "logo": "https://cdn.snowpeer.io/gunz.png",
+  "website": "",
+  "socials": [],
+  "chains": [
+    {
+      "blockchainId": "2M47TxWHGnhNtq6pM5zPXdATBtuqubxn5EPFgFmEawCQr9WFML",
+      "name": "GUNZ",
+      "description": "",
+      "evmChainId": 43419,
+      "vmName": "EVM",
+      "vmId": "nZiR8U7nEv51M7THczAzjXPNKdjFP75Ci4HxLevo9duYiLAHn",
+      "rpcUrls": [
+        "https://subnets.avax.network/gunzilla/mainnet/rpc"
+      ],
+      "assets": []
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "subnetId": "2hoHzxcZktxrTNoqCZhR9bEctc5oCuBqSp6SpRn6uvwxzLkvnD",
+  "network": "mainnet",
+  "categories": [
+    "METAVERSE"
+  ],
+  "name": "Lamina1",
+  "description": "Lamina1 is a platform designed for the metaverse, providing scalable solutions for creators and developers. It focuses on building decentralized, open-source virtual worlds with a focus on seamless integration and interoperability.",
+  "logo": "https://cdn.snowpeer.io/lamina.png",
+  "website": "https://lamina1.com",
+  "socials": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/Lamina1official"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.com/invite/lamina1"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/Lamina1Official"
+    }
+  ],
+  "chains": [
+    {
+      "blockchainId": "UhReZTXT8Cqsjat9ghRtCe5kBQPQexQB5zG5Fvf3egrdYfyoJ",
+      "name": "Lamina1",
+      "description": "The LAMINA1 Mainnet — a platform and protocol for a new era of digital content and co-creation founded by legendary author/futurist Neal Stephenson, crypto pioneer Peter Vessenes, and entertainment executive Rebecca Barkin.",
+      "evmChainId": 10849,
+      "vmName": "EVM",
+      "vmId": "ae3HBgfy2rJd4jWV9fYqDQKKSFLuDarRKYxj3XX61nk56qdPT",
+      "rpcUrls": [
+        "https://subnets.avax.network/lamina1/mainnet/rpc"
+      ],
+      "assets": []
+    }
+  ]
+}

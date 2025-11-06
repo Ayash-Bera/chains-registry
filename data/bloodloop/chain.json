@@ -1,0 +1,37 @@
+{
+  "subnetId": "2QRKgBVT4zbcEWM4aXYRPNRazmas9on1QZodYakh1cF4RDrQE5",
+  "network": "mainnet",
+  "categories": [
+    "GAMING"
+  ],
+  "name": "Bloodloop",
+  "description": "A 5v5 tactical Hero-Shooter game, integrated with blockchain.",
+  "logo": "https://cdn.snowpeer.io/bloodloop.png",
+  "website": "https://www.bloodloop.com/",
+  "socials": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/BloodLoopGAME"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/joinbloodloop"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.com/invite/3gYUNSFnma"
+    }
+  ],
+  "chains": [
+    {
+      "blockchainId": "iNrFZ5vbEfURqFCQh8dF1AHvRfKnZ9gk9ksRgMHDKy4AfyYwA",
+      "name": "Bloodloop",
+      "description": "",
+      "evmChainId": 578,
+      "vmName": "EVM",
+      "vmId": "",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

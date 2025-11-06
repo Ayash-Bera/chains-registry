@@ -1,0 +1,37 @@
+{
+  "subnetId": "7f9jciLEX25NPJEaAz1X7XF44B1Q9UBwq6PdnCHm5mnUq1e1C",
+  "network": "mainnet",
+  "categories": [
+    "SPORT"
+  ],
+  "name": "Step Network",
+  "description": "Step Network is a blockchain built to support lifestyle, fitness, and consumption through a fast, open, and inclusive ecosystem. It leverages Avalanche’s code for scalability and security while offering a decentralized environment free from algorithmic trading bots. The network facilitates the rapid integration of metaverse features and NFT infrastructure, making it accessible to brands, developers, and corporations.",
+  "logo": "https://cdn.snowpeer.io/step.png",
+  "website": "https://step.app/",
+  "socials": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/stepapp_"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.com/invite/stepappdc"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/stepappchat"
+    }
+  ],
+  "chains": [
+    {
+      "blockchainId": "2jRZvKtXY5nyWTqRwFh1KMHGrCRxJoULu4r2CsayWRnjdDGbV1",
+      "name": "StepNetwork",
+      "description": "",
+      "evmChainId": 1234,
+      "vmName": "EVM",
+      "vmId": "dkjnKTbCTozMmvJJETzrz8sYVs7vSKzkGShHoa493UcQEweU6",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

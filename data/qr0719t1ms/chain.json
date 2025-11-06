@@ -1,0 +1,22 @@
+{
+  "subnetId": "nur8sATqR5dCeCxk9quXayf16MrywGFGS3eF4GnEmbWmyNGsv",
+  "network": "mainnet",
+  "categories": [],
+  "name": "QR0719T1MS",
+  "description": "QR0719T1MS",
+  "logo": "",
+  "website": "",
+  "socials": [],
+  "chains": [
+    {
+      "blockchainId": "xrbkk3pz7EJT3HXLJqZu73ijEyJx9KFhSGyC1cPnVpQtc414P",
+      "name": "QR0719T1MS",
+      "description": "",
+      "evmChainId": 936903,
+      "vmName": "EVM",
+      "vmId": "cpEkNpfBgrtJjokiHBBPk2W3pXkKKrT9WeeLpsyVhyCZwo6Zq",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "subnetId": "26NzZkCTeUHfqdxRcUXDTAurNxDsT6mYLwSEqTz3s11G1rQV14",
+  "network": "mainnet",
+  "categories": [
+    "RWA"
+  ],
+  "name": "PandaSea",
+  "description": "PandaSea is a Layer 1 blockchain and Web3 stack for creating liquid, decentralized marketplaces across digital and real-world asset classes.",
+  "logo": "https://cdn.snowpeer.io/pandasea.png",
+  "website": "https://pandasea.io",
+  "socials": [],
+  "chains": [
+    {
+      "blockchainId": "2gYSmRb7tjS4wb5FHFx8NBhwQgARWEdr8MGVC7v8UWJJFkEpTj",
+      "name": "PandaSea",
+      "description": "",
+      "evmChainId": 7776,
+      "vmName": "EVM",
+      "vmId": "",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

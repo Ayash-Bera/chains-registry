@@ -1,0 +1,37 @@
+{
+  "subnetId": "2kyZRnEHakKriNufphojbeFR5hi247bJeTjFDgQgo7VRRjoqyq",
+  "network": "mainnet",
+  "categories": [
+    "GAMING"
+  ],
+  "name": "Mirai",
+  "description": "Mirai Labs builds consumer apps that transform complex ideas into intuitive experiences, focusing on practical innovation. They aim to entertain and provide innovative, user-friendly products in the crypto and fintech space.",
+  "logo": "https://cdn.snowpeer.io/mirai.svg",
+  "website": "hhttps://mirailabs.co/",
+  "socials": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/TheMiraiLabs"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.com/invite/UUcgTZB9WV"
+    },
+    {
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/company/mirai-labs/"
+    }
+  ],
+  "chains": [
+    {
+      "blockchainId": "Lgiwfx9L11MLt8RD5Aj7SZ5kEcWQz5NnyCc5hDd5k25J8LoxM",
+      "name": "Mirai",
+      "description": "",
+      "evmChainId": 2718,
+      "vmName": "EVM",
+      "vmId": "b6PDqnGnuy7KzdzP3H5vwztLsQ4GgxQnrd8BVkHmbvwsKHDPi",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "subnetId": "h7egyVb6fKHMDpVaEsTEcy7YaEnXrayxZS4A1AEU4pyBzmwGp",
+  "network": "mainnet",
+  "categories": [
+    "SPORT"
+  ],
+  "name": "FIFA",
+  "description": "The official blockchain of FIFA, leveraging Avalanche to deliver digital collectibles and immersive fan experiences to football fans globally.",
+  "logo": "https://cdn.snowpeer.io/fifa.png",
+  "website": "https://collect.fifa.com",
+  "socials": [],
+  "chains": [
+    {
+      "blockchainId": "SUDoK9P89PCcguskyof41fZexw7U3zubDP2DZpGf3HbFWwJ4E",
+      "name": "FIFA",
+      "description": "",
+      "evmChainId": 13322,
+      "vmName": "EVM",
+      "vmId": "XxNJpcFRu85cPDeTZofVHdeD5NCLj1XTgZpJNJABexXJ5e2ho",
+      "rpcUrls": [
+        "https://subnets.avax.network/fifa/mainnet/rpc"
+      ],
+      "assets": []
+    }
+  ]
+}

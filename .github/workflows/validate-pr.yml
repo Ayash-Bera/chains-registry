@@ -1,0 +1,125 @@
+name: Validate Chain Data
+
+on:
+  pull_request:
+    branches: [main, master]
+    paths:
+      - 'data/*/chain.json'
+      - 'data/*/README.md'
+  push:
+    branches: [main, master]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: |
+          if [ -f package.json ]; then
+            npm install
+          fi
+
+      - name: Validate JSON syntax
+        run: |
+          echo "Validating JSON files..."
+          find data -name "chain.json" -not -path "*/node_modules/*" -not -path "data/_TEMPLATE/*" | while read file; do
+            echo "Checking $file"
+            if ! python3 -m json.tool "$file" > /dev/null 2>&1; then
+              echo "❌ Invalid JSON: $file"
+              exit 1
+            fi
+          done
+          echo "✅ All JSON files are valid"
+
+      - name: Validate required fields
+        run: |
+          echo "Validating required fields..."
+          python3 << 'EOF'
+          import json
+          import os
+          from pathlib import Path
+
+          errors = []
+          required_fields = ['subnetId', 'network', 'categories', 'name', 'description', 'logo', 'website', 'socials', 'chains']
+          required_chain_fields = ['blockchainId', 'name', 'evmChainId', 'vmName', 'vmId', 'rpcUrls', 'assets']
+
+          for chain_json in Path('data').rglob('chain.json'):
+              if '_TEMPLATE' in str(chain_json) or 'node_modules' in str(chain_json):
+                  continue
+
+              try:
+                  with open(chain_json) as f:
+                      data = json.load(f)
+
+                  folder = chain_json.parent.name
+
+                  # Check required fields
+                  for field in required_fields:
+                      if field not in data:
+                          errors.append(f"{folder}: Missing required field '{field}'")
+
+                  # Check chains structure
+                  if 'chains' in data and isinstance(data['chains'], list):
+                      for idx, chain in enumerate(data['chains']):
+                          for field in required_chain_fields:
+                              if field not in chain:
+                                  errors.append(f"{folder}: chains[{idx}] missing '{field}'")
+
+                  # Validate network value
+                  if 'network' in data and data['network'] not in ['mainnet', 'fuji']:
+                      errors.append(f"{folder}: network must be 'mainnet' or 'fuji'")
+
+              except Exception as e:
+                  errors.append(f"{chain_json}: {str(e)}")
+
+          if errors:
+              print("❌ Validation errors found:")
+              for error in errors:
+                  print(f"  - {error}")
+              exit(1)
+          else:
+              print("✅ All required fields present")
+          EOF
+
+      - name: Check folder naming convention
+        run: |
+          echo "Checking folder naming conventions..."
+          python3 << 'EOF'
+          import re
+          from pathlib import Path
+
+          errors = []
+          pattern = re.compile(r'^[a-z0-9-]+$')
+
+          data_dir = Path('data')
+          if data_dir.exists():
+              for item in data_dir.iterdir():
+                  if item.is_dir() and not item.name.startswith('.') and not item.name.startswith('_') and item.name != 'node_modules':
+                      if not pattern.match(item.name):
+                          errors.append(f"Folder '{item.name}' must be lowercase and hyphenated (e.g., 'my-chain-name')")
+
+          if errors:
+              print("❌ Folder naming errors:")
+              for error in errors:
+                  print(f"  - {error}")
+              exit(1)
+          else:
+              print("✅ All folder names follow convention")
+          EOF
+
+      - name: Validation Summary
+        if: success()
+        run: |
+          echo ""
+          echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+          echo "✅ All validations passed!"
+          echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"

@@ -1,0 +1,41 @@
+{
+  "subnetId": "x1C95jnFyLV3x8tiiCW7ZFRoRFgq9SX1Yprwfxx4GCTujggYB",
+  "network": "mainnet",
+  "categories": [
+    "IP"
+  ],
+  "name": "Kalichain",
+  "description": "Kalichain offers a blockchain solution for product authenticity through tokenization, enabling secure and transparent transactions. With tools like NFC tag verification and smart contracts, it supports businesses across industries. The platform also features KALIPAY for secure transactions and decentralized governance for seamless cross-chain interoperability.",
+  "logo": "https://cdn.snowpeer.io/kali.png",
+  "website": "https://kalichain.com",
+  "socials": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/kalichainoff"
+    },
+    {
+      "name": "linkedin",
+      "url": "https://linkedin.com/company/93642026"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.gg/invite/ma3cHRkj2C"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/kalichain"
+    }
+  ],
+  "chains": [
+    {
+      "blockchainId": "TT2vQnjSF9VZfjaA5dB1VNKVdqkVCDzSncxaMcGVwYedGaMG3",
+      "name": "Kalichain",
+      "description": "",
+      "evmChainId": 6533,
+      "vmName": "EVM",
+      "vmId": "",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "subnetId": "q54cgHa9RN2NFp9qsfpPzVkhgn8xqDgKEQR1G997xZ1P5Dc8o",
+  "network": "mainnet",
+  "categories": [],
+  "name": "EthixEtx",
+  "description": "",
+  "logo": "",
+  "website": "",
+  "socials": [],
+  "chains": [
+    {
+      "blockchainId": "2R87vuaaRZRxPLdvdMEpo7fH9qyyNnP34h4nyxuwq8sKkQ1GaE",
+      "name": "EthixEtx",
+      "description": "",
+      "evmChainId": 389,
+      "vmName": "EVM",
+      "vmId": "",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

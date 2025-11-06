@@ -1,0 +1,26 @@
+{
+  "subnetId": "yEQe3LdJgjxBqG28gRjLUu86qFCcNbWnkPtPr7ZHg8pLx1SUJ",
+  "network": "mainnet",
+  "categories": [
+    "AI"
+  ],
+  "name": "Masa Network",
+  "description": "Masa.ai provides AI-driven automation solutions designed to enhance business operations. It enables organizations to automate workflows, optimize tasks, and improve productivity with advanced AI tools.",
+  "logo": "https://cdn.snowpeer.io/masa.png",
+  "website": "https://www.masa.ai/",
+  "socials": [],
+  "chains": [
+    {
+      "blockchainId": "2EpCcmHLNqFqbE6Ch1fX6VbgqFETtuKdn9dcBS375pXLN48NKC",
+      "name": "MasaNetwork",
+      "description": "The World's Personal Data Network\n\nMasa is architecting the “decentralized Google” for the AI era. We are building an open, incentivized, and privacy-by-default economy for the world's personal data.",
+      "evmChainId": 13396,
+      "vmName": "EVM",
+      "vmId": "b5awsgDn99TGhtWXVU8YrXEyBBtuNkGb5NFjfw6LFPHYZSzvW",
+      "rpcUrls": [
+        "https://subnets.avax.network/masanetwork/mainnet/rpc"
+      ],
+      "assets": []
+    }
+  ]
+}

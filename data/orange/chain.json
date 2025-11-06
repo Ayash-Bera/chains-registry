@@ -1,0 +1,24 @@
+{
+  "subnetId": "4onzNay6p7oru7GfZLCMrXhxvUqtmoC4vz8r8ev9e7r2C5wju",
+  "network": "mainnet",
+  "categories": [
+    "AI"
+  ],
+  "name": "Orange",
+  "description": "Purpose-built for AI-native creators. Orange Web3 provides the tools to turn AI-assisted and vibe coded ideas into live products, backed by on-chain rewards and an active user ecosystem.",
+  "logo": "https://cdn.snowpeer.io/orange.png",
+  "website": "https://www.orangeweb3.com",
+  "socials": [],
+  "chains": [
+    {
+      "blockchainId": "AowVWzuCAyLrTPSLHHaHeMJSdxRhhWbvmEuXncPnKv1hT5wf4",
+      "name": "Orange",
+      "description": "",
+      "evmChainId": 1510,
+      "vmName": "EVM",
+      "vmId": "",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

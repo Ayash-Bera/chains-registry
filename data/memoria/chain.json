@@ -1,0 +1,33 @@
+{
+  "subnetId": "2sF5Pb165jhdeNSy2kT4WyDYazu3buh1WGh77oTBA9dDjBPtsy",
+  "network": "mainnet",
+  "categories": [
+    "GAMING"
+  ],
+  "name": "Memoria",
+  "description": "Memoria is the first decentralized AI Gaming and AI Agent concept platform, seamlessly merging AI-driven gaming with meme culture.",
+  "logo": "https://cdn.snowpeer.io/memoria.png",
+  "website": "https://playmemoria.com/",
+  "socials": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/play_memoria"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.gg/playmemoria"
+    }
+  ],
+  "chains": [
+    {
+      "blockchainId": "kyY16vnR3Wc77KCsghGx1c2JM6FRKSP4EUxdfe19qE2az5TPC",
+      "name": "Memoria",
+      "description": "",
+      "evmChainId": 1888,
+      "vmName": "EVM",
+      "vmId": "",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

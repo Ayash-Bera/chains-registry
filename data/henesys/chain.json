@@ -1,0 +1,26 @@
+{
+  "subnetId": "jmLmezoViv3F72XLzpdmSNk3qLEGb72g5EYkp3ij4wHXPF2KN",
+  "network": "mainnet",
+  "categories": [
+    "GAMING"
+  ],
+  "name": "Henesys",
+  "description": "",
+  "logo": "https://cdn.snowpeer.io/henesys.png",
+  "website": "https://msu.io/",
+  "socials": [],
+  "chains": [
+    {
+      "blockchainId": "2LFmzhHDKxkreihEtPanVmofuFn63bsh8twnRXEbDhBtCJxURB",
+      "name": "Henesys",
+      "description": "",
+      "evmChainId": 68414,
+      "vmName": "EVM",
+      "vmId": "YtGKetwQgUADapTEJBQCfS2EcH55x4hyjrFiJBaooiUd1X17v",
+      "rpcUrls": [
+        "https://henesys-rpc.msu.io"
+      ],
+      "assets": []
+    }
+  ]
+}

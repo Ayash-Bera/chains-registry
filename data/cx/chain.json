@@ -1,0 +1,26 @@
+{
+  "subnetId": "WChFQ1twkXBLxZGo4qojC9AgizFrRdMRnPCK9FZmisY7z6pUs",
+  "network": "mainnet",
+  "categories": [
+    "GAMING"
+  ],
+  "name": "CX",
+  "description": "CX Chain is a decentralized game execution layer where any participant can act as a liquidity provider or game operator.",
+  "logo": "https://cdn.snowpeer.io/cx.png",
+  "website": "https://cxchain.xyz",
+  "socials": [],
+  "chains": [
+    {
+      "blockchainId": "25xjR3fvh7aXkxs36n1xRc3wLUAuqnS1wBxJD1BC4z3y6mHsEV",
+      "name": "CX",
+      "description": "",
+      "evmChainId": 737373,
+      "vmName": "EVM",
+      "vmId": "WfDfJpyhMEwWLZDypWXq2yfUUCUYaDegMdD5qpUT9zAXeb74a",
+      "rpcUrls": [
+        "https://subnets.avax.network/cx/mainnet/rpc"
+      ],
+      "assets": []
+    }
+  ]
+}

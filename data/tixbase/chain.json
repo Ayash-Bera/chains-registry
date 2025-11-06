@@ -1,0 +1,24 @@
+{
+  "subnetId": "2BLtazsGwYAFEHpvZQGQUPavjQZ2YUqpvfYPdAdTtKpJ1m3eRK",
+  "network": "mainnet",
+  "categories": [
+    "TICKETING"
+  ],
+  "name": "Tixbase",
+  "description": "Tixbase is a B2B ticketing solution that lets event organizers / ticket companies, fully control the planning, launch, and resale of their tickets.",
+  "logo": "https://cdn.snowpeer.io/tixbase.png",
+  "website": "https://www.tixbase.com",
+  "socials": [],
+  "chains": [
+    {
+      "blockchainId": "Bb5XKrQoBT6ypFmFUppAqfSmKCqcqYwjGCn3hHS6gibRTjiDj",
+      "name": "Tixbase",
+      "description": "",
+      "evmChainId": 13790,
+      "vmName": "EVM",
+      "vmId": "",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "subnetId": "qWeo55RT2F7SNoWtVUuAGptPoz23hViLthjHHaj3BsV2pv7TM",
+  "network": "mainnet",
+  "categories": [
+    "HEALTH"
+  ],
+  "name": "Rymedi Identity",
+  "description": "Rymedi provides blockchain-enabled data management solutions for health organizations, particularly in clinical trials, diagnostics, and testing. The platform streamlines data collection, enhances patient experience, and ensures compliance with global regulations. Its tools enable secure storage, reporting, and integration with labs, promoting efficiency and growth while minimizing risk.",
+  "logo": "https://cdn.snowpeer.io/rymedi.svg",
+  "website": "https://rymedi.com",
+  "socials": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/teamrymedi"
+    },
+    {
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/company/rymedi/"
+    }
+  ],
+  "chains": [
+    {
+      "blockchainId": "HnECQEqpvvXcBF9Jup1ti1XMowQGrSWiQSkKdwcjxEbzmTHMC",
+      "name": "Rymedi Identity Subnet",
+      "description": "",
+      "evmChainId": 111001001,
+      "vmName": "EVM",
+      "vmId": "dKhNBikRSxwPAHcAMVkVR83RVP5KUbn2XxgRasuExToZUUudK",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

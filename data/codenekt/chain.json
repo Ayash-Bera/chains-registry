@@ -1,0 +1,37 @@
+{
+  "subnetId": "o4Eariv2Cx1fTvPFXYofpJfS9KgwFaiGN8KFGcCeZM9t87GJr",
+  "network": "mainnet",
+  "categories": [
+    "DEPIN"
+  ],
+  "name": "CodeNekt",
+  "description": "A fast, secure, and customizable Layer 1 blockchain built specifically for the automotive industry.",
+  "logo": "https://cdn.snowpeer.io/codenekt.png",
+  "website": "https://codenekt-ecosystem.io",
+  "socials": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/CodeNekt_Eco"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/CodeNektEcoPortal"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.com/invite/5FZwpWJVvD"
+    }
+  ],
+  "chains": [
+    {
+      "blockchainId": "ZG7cT4B1u3y7piZ9CzfejnTKnNAoehcifbJWUwBqgyD3RuEqK",
+      "name": "CodeNekt",
+      "description": "",
+      "evmChainId": 235235,
+      "vmName": "EVM",
+      "vmId": "",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

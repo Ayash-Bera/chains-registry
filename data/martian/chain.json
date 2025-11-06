@@ -1,0 +1,24 @@
+{
+  "subnetId": "KQnyo57ynwQ5QD1xcLYySYSVxvR1yQCU3vmH7krZ6XLhZjSrV",
+  "network": "mainnet",
+  "categories": [
+    "LAUNCHPAD"
+  ],
+  "name": "Martian",
+  "description": "",
+  "logo": "https://cdn.snowpeer.io/martianl1.png",
+  "website": "https://martianchain.com",
+  "socials": [],
+  "chains": [
+    {
+      "blockchainId": "EYPBCBz1QBTA4YvZChXFx5m3Ztct8B5LyXDynR1ekuQnsjqiK",
+      "name": "MartianChain",
+      "description": "",
+      "evmChainId": 2027,
+      "vmName": "EVM",
+      "vmId": "",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

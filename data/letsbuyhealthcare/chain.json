@@ -1,0 +1,25 @@
+{
+  "subnetId": "f6ewGNYxGRjQ1SFfhL2tiHCMHzz9AHdTuPe11dRNarGbp3dES",
+  "network": "mainnet",
+  "categories": [
+    "RWA",
+    "HEALTH"
+  ],
+  "name": "Letsbuyhealthcare",
+  "description": "Providing a fast affordable way to access and prepare for the cost of private healthcare.",
+  "logo": "https://cdn.snowpeer.io/lets.svg",
+  "website": "https://letsbuyhealthcare.com",
+  "socials": [],
+  "chains": [
+    {
+      "blockchainId": "29vwJsYDCuAHpCCGkvvWh8K2MiHAyCXYKUNobCMg4c7ZQvSkJu",
+      "name": "Letsbuyhealthcare",
+      "description": "",
+      "evmChainId": 50776,
+      "vmName": "EVM",
+      "vmId": "",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

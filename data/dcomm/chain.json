@@ -1,0 +1,29 @@
+{
+  "subnetId": "fmmMAGwEYQZMGN7BC4b86gqmukSMEc6rAkG1SXapq3cz1W7y7",
+  "network": "mainnet",
+  "categories": [
+    "RWA"
+  ],
+  "name": "DComm",
+  "description": "Real world assets, tokenised, structured and supported.",
+  "logo": "https://cdn.snowpeer.io/dcomm.png",
+  "website": "https://dcomm.community",
+  "socials": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/DComm_Official"
+    }
+  ],
+  "chains": [
+    {
+      "blockchainId": "2QJ6d1ue6UyXNXrMdGnELFc2AjMdMqs8YbX3sT3k4Nin2RcWSm",
+      "name": "DComm",
+      "description": "",
+      "evmChainId": 326663,
+      "vmName": "EVM",
+      "vmId": "",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

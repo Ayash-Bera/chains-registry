@@ -1,0 +1,22 @@
+{
+  "subnetId": "2u4CdtuzwT2AtS8UcZYWAiB3sVWrSJVyD8QQMR3d9wmGAXZo5v",
+  "network": "mainnet",
+  "categories": [],
+  "name": "QR0830T1MS L1",
+  "description": "QA L1 08302024",
+  "logo": "",
+  "website": "",
+  "socials": [],
+  "chains": [
+    {
+      "blockchainId": "tmX5HjBWUBRzy8wQd7LE5CFMmimCQDz5WH14QzdYJMxcVm1bC",
+      "name": "QR0830T1MS",
+      "description": "",
+      "evmChainId": 931499,
+      "vmName": "EVM",
+      "vmId": "cpEkP82AuzR8dvGzYYay324AFnSZCVQxPxHJdNsE9YrPg6NXh",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

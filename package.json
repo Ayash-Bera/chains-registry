@@ -1,0 +1,27 @@
+{
+  "name": "avalanche-chains-registry",
+  "version": "1.0.0",
+  "description": "Community-maintained registry of Avalanche L1 chains",
+  "scripts": {
+    "validate": "node ../L1Beat-backend/src/scripts/validateChainsRegistry.js",
+    "validate:single": "./scripts/validate-single.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/l1beat/chains-registry.git"
+  },
+  "keywords": [
+    "avalanche",
+    "l1",
+    "subnet",
+    "blockchain",
+    "registry",
+    "chains"
+  ],
+  "author": "L1Beat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/l1beat/chains-registry/issues"
+  },
+  "homepage": "https://github.com/l1beat/chains-registry#readme"
+}

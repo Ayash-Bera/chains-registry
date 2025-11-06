@@ -1,0 +1,22 @@
+{
+  "subnetId": "2BNnJuF7QiSjnEhvRStKE6ksugnAyF1e42j3u6VWMCL4c8D3bJ",
+  "network": "mainnet",
+  "categories": [],
+  "name": "Teleporter2",
+  "description": "",
+  "logo": "",
+  "website": "",
+  "socials": [],
+  "chains": [
+    {
+      "blockchainId": "2V27BZNRQVNBbEsJevF2EXMp5N5n7ah1SuAUDrZ3A7fkCcFodY",
+      "name": "teleportersubnet2",
+      "description": "",
+      "evmChainId": 70953,
+      "vmName": "EVM",
+      "vmId": "tGBh6N86FPEfFFTVjkJFZCHM6okVGEuB8TfGVA2Z317u3WNrk",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

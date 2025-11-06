@@ -1,0 +1,24 @@
+{
+  "subnetId": "9L3hT5PtJVhiyJt1FHVqeJKtguyTM7V98KZobBeCUhYCQEHeQ",
+  "network": "mainnet",
+  "categories": [
+    "GAMING"
+  ],
+  "name": "Warp",
+  "description": "A full-service Layer 1 protocol, game publisher, and growth platform, offering unparalleled support throughout the game lifecycle.",
+  "logo": "https://cdn.snowpeer.io/warpgaming.png",
+  "website": "https://www.warpgaming.io",
+  "socials": [],
+  "chains": [
+    {
+      "blockchainId": "uoVf4pQ3KkaNqAz76ZrmYYeGSJJJSuVR4Wv72BCJR8Eyq2iF4",
+      "name": "Warp",
+      "description": "",
+      "evmChainId": 299792,
+      "vmName": "EVM",
+      "vmId": "",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

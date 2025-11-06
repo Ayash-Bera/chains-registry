@@ -1,0 +1,22 @@
+{
+  "subnetId": "TsijYHafTXCUZGoisGnMorh2HGwY9Vg2YzviEo8nrmtZZESp9",
+  "network": "mainnet",
+  "categories": [],
+  "name": "QRTMS",
+  "description": "",
+  "logo": "",
+  "website": "",
+  "socials": [],
+  "chains": [
+    {
+      "blockchainId": "28Z2DcNiiV6dD5LAm1KNZGBmpbokWaHVBaTXV9HoUCh7o1ahEc",
+      "name": "QRTMS",
+      "description": "",
+      "evmChainId": 77757,
+      "vmName": "EVM",
+      "vmId": "",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

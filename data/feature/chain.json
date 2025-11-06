@@ -1,0 +1,37 @@
+{
+  "subnetId": "29p4FdSKaXQPyw8sqhzJSK37FXuPHdyECau186qZSUNRhk3QuB",
+  "network": "mainnet",
+  "categories": [
+    "IP"
+  ],
+  "name": "Feature",
+  "description": "Feature is an entertainment studio and technology company that’s pioneering the evolution of storytelling. They are Avalanche-based Web3 platform that helps creators and brands monetize content through NFT memberships and tokenized communities, combining blockchain benefits with accessible tools for mainstream adoption.",
+  "logo": "https://cdn.snowpeer.io/feature.svg",
+  "website": "https://www.feature.io/",
+  "socials": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/featureio"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.com/invite/feature"
+    },
+    {
+      "name": "instagram",
+      "url": "https://www.instagram.com/thefeature.io"
+    }
+  ],
+  "chains": [
+    {
+      "blockchainId": "txbozTNfyRgJJxtHmsbpvwTTWTHU739z7pX7qKdhJVxHC2MAk",
+      "name": "feature",
+      "description": "",
+      "evmChainId": 33311,
+      "vmName": "EVM",
+      "vmId": "n6Zzdtgyn5Y5ozrkcFd2Me8oLKbH1rHjv3qS7CvemLgqBSmSp",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

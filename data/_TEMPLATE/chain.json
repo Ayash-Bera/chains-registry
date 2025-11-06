@@ -1,0 +1,43 @@
+{
+  "subnetId": "subnet-id-here",
+  "network": "mainnet",
+  "categories": ["DeFi", "Gaming"],
+  "name": "Chain Name",
+  "description": "Chain description here",
+  "logo": "https://example.com/logo.png",
+  "website": "https://example.com",
+  "socials": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/example"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/example"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.gg/example"
+    }
+  ],
+  "chains": [
+    {
+      "blockchainId": "blockchain-id-here",
+      "name": "Chain Name",
+      "description": "Blockchain description",
+      "evmChainId": 12345,
+      "vmName": "EVM",
+      "vmId": "vm-id-here",
+      "rpcUrls": [
+        "https://rpc.example.com"
+      ],
+      "assets": [
+        {
+          "symbol": "TOKEN",
+          "name": "Token Name",
+          "decimals": 18
+        }
+      ]
+    }
+  ]
+}

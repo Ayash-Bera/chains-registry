@@ -1,0 +1,39 @@
+{
+  "subnetId": "DxanjptkyaeM1eUew2gzUMngHM3n5ttUyMj7BuHw9riXh9pJC",
+  "network": "mainnet",
+  "categories": [
+    "GAMING"
+  ],
+  "name": "Pulsar",
+  "description": "Pulsar Game offers a blockchain-powered gaming ecosystem where players can enjoy play-to-earn experiences. It integrates unique features for in-game assets, rewarding users for their participation. The platform uses NFTs and other blockchain technologies to enhance gaming and enable true ownership of in-game items.",
+  "logo": "https://cdn.snowpeer.io/pulsar.jpg",
+  "website": "https://pulsar.game",
+  "socials": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/PulsarGame"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.com/invite/sWk2ZYHsvg"
+    },
+    {
+      "name": "youtube",
+      "url": "https://www.youtube.com/channel/UCG0LjOPFxiUMzq-KMadp10g"
+    }
+  ],
+  "chains": [
+    {
+      "blockchainId": "QVbrD172sAF1TgCvN9DZG93nAd2YBGCJVZP4cngdEKCTy2F9v",
+      "name": "Pulsar",
+      "description": "Pulsar combines game elements of the Real Time Strategy (RTS) genre with a persistent, massively multiplayer online (MMO) world. From the former Tech Director of the whole technology and the New IPs Director of King (Candy Crush Franchise) arrives Pulsar.",
+      "evmChainId": 357,
+      "vmName": "EVM",
+      "vmId": "rXcAFxJFTumjKQSJPe2VNdvR6FveM9r6Zyb2axDddAvVZifXt",
+      "rpcUrls": [
+        "https://subnets.avax.network/pulsar/mainnet/rpc"
+      ],
+      "assets": []
+    }
+  ]
+}

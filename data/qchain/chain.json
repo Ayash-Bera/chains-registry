@@ -1,0 +1,41 @@
+{
+  "subnetId": "26wQKuvA5kjwrKDaje7nmuJAx6Ke2bGvDDr3EiypNr53rH1pMc",
+  "network": "mainnet",
+  "categories": [
+    "LOYALTY"
+  ],
+  "name": "QCHAIN",
+  "description": "Quboid is a decentralized loyalty program platform designed to enhance customer engagement by offering tokenized loyalty points, membership passes, and rewards. It facilitates brand-to-brand collaborations, allowing seamless partnerships via smart contracts. With Q-Chain, it ensures fast settlement of token liabilities and offers a scalable and modular solution for businesses to expand their loyalty programs.",
+  "logo": "https://cdn.snowpeer.io/qchain.svg",
+  "website": "https://qubo.id",
+  "socials": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/Quboid_HQ"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/+J2hTcNKBrDY0YWRl"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.com/invite/BHcACX5ajb"
+    },
+    {
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/company/quboid-hq/"
+    }
+  ],
+  "chains": [
+    {
+      "blockchainId": "2GRw9HYnCxyVsr4P5pytpqcyRaymtnTuu1oZhuSWcP4DfJxojy",
+      "name": "QCHAIN",
+      "description": "",
+      "evmChainId": 12150,
+      "vmName": "EVM",
+      "vmId": "",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

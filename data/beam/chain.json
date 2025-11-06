@@ -1,0 +1,43 @@
+{
+  "subnetId": "eYwmVU67LmSfZb1RwqCMhBYkFyG8ftxn6jAwqzFmxC9STBWLC",
+  "network": "mainnet",
+  "categories": [
+    "GAMING"
+  ],
+  "name": "Beam",
+  "description": "An opinionated chain built for gaming.",
+  "logo": "https://cdn.snowpeer.io/beam.png",
+  "website": "https://onbeam.com",
+  "socials": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/BuildOnBeam"
+    },
+    {
+      "name": "discord",
+      "url": "http://discord.gg/beamgamers"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/buildonbeam_news"
+    },
+    {
+      "name": "medium",
+      "url": "https://medium.com/@onbeam"
+    }
+  ],
+  "chains": [
+    {
+      "blockchainId": "2tmrrBo1Lgt1mzzvPSFt73kkQKFas5d1AP88tv9cicwoFp8BSn",
+      "name": "beam",
+      "description": "An opinionated chain built for gaming.",
+      "evmChainId": 4337,
+      "vmName": "EVM",
+      "vmId": "kLPs8zGsTVZ28DhP1VefPCFbCgS7o5bDNez8JUxPVw9E6Ubbz",
+      "rpcUrls": [
+        "https://subnets.avax.network/beam/mainnet/rpc"
+      ],
+      "assets": []
+    }
+  ]
+}

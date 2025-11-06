@@ -1,0 +1,38 @@
+{
+  "subnetId": "2Mi7V6HwKCEPxXTRG87o5tHACECkMPnJKP6UA3w1ote7j46GYT",
+  "network": "mainnet",
+  "categories": [
+    "GAMING",
+    "IP"
+  ],
+  "name": "Hatchyverse",
+  "description": "Hatchyverse is a community-owned IP ecosystem on Avalanche, where the Hatchy brand and its characters are governed by a DAO. Fans and creators collectively steer the franchise—from NFT collectibles to games—ensuring a truly decentralized, fan-driven universe.",
+  "logo": "https://cdn.snowpeer.io/hatchy.png",
+  "website": "https://hatchyverse.com",
+  "socials": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/hatchyverse"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.com/invite/cW378HVjyY"
+    },
+    {
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/company/hatchypocket/"
+    }
+  ],
+  "chains": [
+    {
+      "blockchainId": "2tig763SuFas5WGk6vsjj8uWzTwq8DKvAN8YgeouwFZe28XjNm",
+      "name": "Hatchyverse",
+      "description": "",
+      "evmChainId": 8198,
+      "vmName": "EVM",
+      "vmId": "",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

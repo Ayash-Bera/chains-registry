@@ -1,0 +1,22 @@
+{
+  "subnetId": "63toLWYNBLvCZvYqRArcVo6jxv2PUPRWM39pRc34ffGTe2bPu",
+  "network": "mainnet",
+  "categories": [],
+  "name": "QIMMP",
+  "description": "",
+  "logo": "",
+  "website": "",
+  "socials": [],
+  "chains": [
+    {
+      "blockchainId": "UyegvLmBWf9yw2ZRUM7jGmmjaPi8jgXdcKkRGsWkWLbvw7TNR",
+      "name": "QIMMP",
+      "description": "",
+      "evmChainId": 89043,
+      "vmName": "EVM",
+      "vmId": "",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

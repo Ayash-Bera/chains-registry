@@ -1,0 +1,24 @@
+{
+  "subnetId": "JD8MbaUp75twdVJ7A4j2ryk7gFJ8FCgQeNLhvDv3y4up9bExp",
+  "network": "mainnet",
+  "categories": [
+    "PREDICTION"
+  ],
+  "name": "TradeX Market",
+  "description": "",
+  "logo": "https://cdn.snowpeer.io/tradex.png",
+  "website": "",
+  "socials": [],
+  "chains": [
+    {
+      "blockchainId": "2L9oVyCkyqMgrwVS7CFkn21KSNWeD67dH6uzjw3LF6ErDhzAjK",
+      "name": "TradeX Market",
+      "description": "",
+      "evmChainId": 21024,
+      "vmName": "EVM",
+      "vmId": "",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

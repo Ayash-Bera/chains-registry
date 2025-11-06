@@ -1,0 +1,22 @@
+{
+  "subnetId": "dwWfVQ5dgYMeWTuP6JB4xevQmVw4MmHKLFUeHAUoMNV9v5cHp",
+  "network": "mainnet",
+  "categories": [],
+  "name": "SubnetsIO",
+  "description": "",
+  "logo": "https://cdn.snowpeer.io/subnetsio.jpg",
+  "website": "https://www.subnets.io",
+  "socials": [],
+  "chains": [
+    {
+      "blockchainId": "2B8Q1rbfrDTAFtizaZC9Wzqt1GGV9yHL5AtYQ5H7joo4Jw8YMc",
+      "name": "subnetsio",
+      "description": "",
+      "evmChainId": null,
+      "vmName": "EVM",
+      "vmId": "srEXiWaHxVVXht5yphBuxuGKZGSsJwkQrwFcyCiKtMTRFWmJR",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "subnetId": "11111111111111111111111111111111LpoYY",
+  "network": "mainnet",
+  "categories": [
+    "L0"
+  ],
+  "name": "Avalanche Primary Network",
+  "description": "Avalanche is a highly scalable, eco-friendly blockchain platform offering sub-second finality and low transaction fees, designed to support decentralized applications and custom blockchain networks.",
+  "logo": "https://cdn.snowpeer.io/avax.svg",
+  "website": "https://avax.network",
+  "socials": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/avax"
+    },
+    {
+      "name": "youtube",
+      "url": "https://www.youtube.com/Avalancheavax"
+    },
+    {
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/company/avalancheavax"
+    },
+    {
+      "name": "reddit",
+      "url": "https://www.reddit.com/r/Avax/"
+    }
+  ],
+  "chains": [
+    {
+      "blockchainId": "2q9e4r6Mu3U68nU1fYjgbR6JvwrRx36CohpAX5UQxse55x1Q5",
+      "name": "C-Chain",
+      "description": "The Contract Chain (C-Chain) runs on an Ethereum Virtual Machine and is used to deploy smart contracts and connect to dApps.",
+      "evmChainId": 43114,
+      "vmName": "EVM",
+      "vmId": "mgj786NP7uDwBCcq6YwThhaN8FLyybkCa4zBWTQbNgmK6k9A6",
+      "rpcUrls": [
+        "https://api.avax.network/ext/bc/C/rpc"
+      ],
+      "assets": []
+    },
+    {
+      "blockchainId": "2oYMBNV4eNHyqk2fjjV5nVQLDbtmNJzq5s3qs3Lo6ftnC6FByM",
+      "name": "X-Chain",
+      "description": "",
+      "evmChainId": null,
+      "vmName": "AVM",
+      "vmId": "jvYyfQTxGMJLuGWa55kdP2p2zSUYsQ5Raupu4TW34ZAUBAbtq",
+      "rpcUrls": [],
+      "assets": []
+    },
+    {
+      "blockchainId": "11111111111111111111111111111111LpoYY",
+      "name": "P-Chain",
+      "description": "",
+      "evmChainId": null,
+      "vmName": "PVM",
+      "vmId": "11111111111111111111111111111111LpoYY",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

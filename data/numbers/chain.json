@@ -1,0 +1,43 @@
+{
+  "subnetId": "2gHgAgyDHQv7jzFg6MxU2yyKq5NZBpwFLFeP8xX2E3gyK1SzSQ",
+  "network": "mainnet",
+  "categories": [
+    "IP",
+    "AI",
+    "ART"
+  ],
+  "name": "Numbers",
+  "description": "Numbers Protocol is a decentralized system ensuring digital media authenticity and ownership. It offers tools for content verification, blockchain-based provenance, and AI-driven solutions to increase trust in digital assets. By providing decentralized storage and low-cost infrastructure, it helps creators protect ownership, monetize work, and ensures transparency in content sharing.",
+  "logo": "https://cdn.snowpeer.io/numbers.jpg",
+  "website": "https://www.numbersprotocol.io",
+  "socials": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/numbersprotocol"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.com/invite/KF8TNeWd2u"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/numbersprotocol"
+    },
+    {
+      "name": "medium",
+      "url": "https://medium.com/numbers-protocol"
+    }
+  ],
+  "chains": [
+    {
+      "blockchainId": "2PDRxzc6jMbZSTLb3sufkVszgQc2jtDnYZGtDTAAfom1CTwPsE",
+      "name": "numbersevm",
+      "description": "",
+      "evmChainId": 10507,
+      "vmName": "EVM",
+      "vmId": "qeX7kcVMMkVLB9ZJKTpvtSjpLbtYooNEdpFzFShwRTFu76qdx",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

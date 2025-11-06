@@ -1,0 +1,31 @@
+{
+  "subnetId": "2QiTdY87qfDRav1pSdxkGMqjRD6YXFscVd64W3L3V8v4re9CCo",
+  "network": "mainnet",
+  "categories": [
+    "FOOD"
+  ],
+  "name": "ONIGIRI",
+  "description": "ONIGIRI Chain is a blockchain platform focused on storing and collecting food and healthcare data. By centralizing consumer behavior information, it aims to become the leading protocol for these sectors, facilitating new value creation.",
+  "logo": "https://cdn.snowpeer.io/onigiri.png",
+  "website": "https://www.ongr.org",
+  "socials": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/OnigiriChain"
+    }
+  ],
+  "chains": [
+    {
+      "blockchainId": "2pdeYfs5hRYDM63ETuPN9YFWohEXehuhkAMsvYETyrsjbReK9q",
+      "name": "ONIGIRI",
+      "description": "",
+      "evmChainId": 5040,
+      "vmName": "EVM",
+      "vmId": "bvm6sRU3Sr87DGBCUCug9MUZa8eX9WMr83CLVefrS7aNDKkkE",
+      "rpcUrls": [
+        "https://subnets.avax.network/onigiri/mainnet/rpc"
+      ],
+      "assets": []
+    }
+  ]
+}

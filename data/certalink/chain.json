@@ -1,0 +1,22 @@
+{
+  "subnetId": "2hZa4RMWAkiQAQ5zpbPSkNziYSHyCqBGeKNnbqWfJL2GKmy8eq",
+  "network": "mainnet",
+  "categories": [],
+  "name": "CertaLink",
+  "description": "",
+  "logo": "",
+  "website": "",
+  "socials": [],
+  "chains": [
+    {
+      "blockchainId": "27xa71ERzSzir2KuPmmsAFkceVA74Xfh8Fys8SrmHjdKyj1vqd",
+      "name": "CertaLink",
+      "description": "",
+      "evmChainId": 2053,
+      "vmName": "EVM",
+      "vmId": "",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

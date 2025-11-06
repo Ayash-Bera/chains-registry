@@ -1,0 +1,40 @@
+{
+  "subnetId": "Cv1gyKNUtPNAtFw8YcjbsD4a3HNRbNvinY7t2gnGK4J54rQK3",
+  "network": "mainnet",
+  "categories": [
+    "GAMING",
+    "NFT"
+  ],
+  "name": "SHRAPNEL",
+  "description": "Shrapnel is an award-winning, free-to-play, team-based first-person shooter set in a post-apocalyptic world. Players collect and secure \"Sigma\" from meteorites while battling other squads in the dangerous \"Sacrifice Zone.\" Featuring true digital ownership of in-game assets and a dynamic gameplay experience, Shrapnel integrates blockchain technology for item ownership and a thriving in-game economy with the SHRAP token.",
+  "logo": "https://cdn.snowpeer.io/shrapnel.png",
+  "website": "https://www.shrapnel.com",
+  "socials": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/playShrapnel"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.com/invite/shrapnel"
+    },
+    {
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/company/shrapnel-studio"
+    }
+  ],
+  "chains": [
+    {
+      "blockchainId": "2tdRBvNEUhoD6ZWYF9b5NBdj5hHwWPfvSq1EnzvV8QU2XjLNy9",
+      "name": "shrapnelnetwork",
+      "description": "The Shrapnel Subnet is the default blockchain on Avalanche used for trustworthy, transparent, and interoperable content, commerce, and community for Shrapnel, a AAA FPS extraction shooter.",
+      "evmChainId": 2044,
+      "vmName": "EVM",
+      "vmId": "spwf44sL7fXJDwxthqSH9S255fgLRZP9eTFpuAGaE8Q7PyZjL",
+      "rpcUrls": [
+        "https://subnets.avax.network/shrapnel/mainnet/rpc"
+      ],
+      "assets": []
+    }
+  ]
+}

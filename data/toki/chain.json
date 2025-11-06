@@ -1,0 +1,24 @@
+{
+  "subnetId": "2PEXVyBhvZXFrY8NDjh6WvaK3PzfWvRgsif5Xbj3ARsVA7axCw",
+  "network": "mainnet",
+  "categories": [
+    "LOYALTY"
+  ],
+  "name": "Toki",
+  "description": "Toki is a platform designed to help businesses build and manage customer loyalty programs. It offers customizable solutions including paid memberships, referral programs, rewards systems, and engagement features like gamification. Toki integrates seamlessly with e-commerce platforms, providing businesses with tools to track performance, offer cashback rewards, and create personalized customer experiences.",
+  "logo": "https://cdn.snowpeer.io/toki.svg",
+  "website": "https://www.buildwithtoki.com",
+  "socials": [],
+  "chains": [
+    {
+      "blockchainId": "DKxssYQeSpJW3vZnEh2fQuuDSinBZr5L1qKZYoggHTqBE3ZPF",
+      "name": "toki",
+      "description": "",
+      "evmChainId": null,
+      "vmName": "EVM",
+      "vmId": "tHBYPxcnf1MKxjQMS56ijcDVFmNeoGDo5tYtHoYT68NhYZJqG",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

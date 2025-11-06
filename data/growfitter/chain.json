@@ -1,0 +1,29 @@
+{
+  "subnetId": "BCDGWbjqYBJLsXEzHNc2qy9VYPTrF3aGaSMbTGyjn7qJ7RxH8",
+  "network": "mainnet",
+  "categories": [
+    "SPORT"
+  ],
+  "name": "Growfitter",
+  "description": "India’s Biggest Incentivised Wellness Platform. Our vision is to motivate individual and families to adopt an active and healthy lifestyle.",
+  "logo": "https://cdn.snowpeer.io/growfitter.svg",
+  "website": "https://www.growfitter.com",
+  "socials": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/growfitter"
+    }
+  ],
+  "chains": [
+    {
+      "blockchainId": "2PdUCtQocNDvbVWy8ch4PdaicTHA2h5keHLAAPcs9Pr8tYaUg3",
+      "name": "Growfitter",
+      "description": "",
+      "evmChainId": 7084,
+      "vmName": "EVM",
+      "vmId": "",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

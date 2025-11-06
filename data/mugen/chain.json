@@ -1,0 +1,29 @@
+{
+  "subnetId": "LbvSkGmUJSpUby1gUrk4g9mmdeZQWcVGiFCXv57CJHBrxxEos",
+  "network": "mainnet",
+  "categories": [
+    "LOYALTY"
+  ],
+  "name": "MUGEN",
+  "description": "MUGEN mainnet",
+  "logo": "https://cdn.snowpeer.io/mugen.png",
+  "website": "",
+  "socials": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/buildonmugen"
+    }
+  ],
+  "chains": [
+    {
+      "blockchainId": "2GiVhBPR19ZaHYQivmheYv8RkEBjfdu7AyDvSocbWWjR4gz1qf",
+      "name": "MUGEN",
+      "description": "",
+      "evmChainId": 29111,
+      "vmName": "EVM",
+      "vmId": "b4NW8Cm5c1UEjiP7pLfCKjhfpGQMp3KEvKvFzG9XsHhuUrQGa",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

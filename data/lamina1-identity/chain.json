@@ -1,0 +1,37 @@
+{
+  "subnetId": "2T4gpnissLkoezQ36XKxhrFAH5yynqKGa1u47XxCYTdfvePuNz",
+  "network": "mainnet",
+  "categories": [
+    "ID"
+  ],
+  "name": "Lamina1 Identity",
+  "description": "Lamina1 is a platform designed for the metaverse, providing scalable solutions for creators and developers. It focuses on building decentralized, open-source virtual worlds with a focus on seamless integration and interoperability.",
+  "logo": "https://cdn.snowpeer.io/lamina.png",
+  "website": "https://lamina1.com",
+  "socials": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/Lamina1official"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.com/invite/lamina1"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/Lamina1Official"
+    }
+  ],
+  "chains": [
+    {
+      "blockchainId": "hR6djBP7uMGJnXrjdUic2rzvvuuMpqMWNb5us7j8xgmj6Ck2N",
+      "name": "Lamina1Identity",
+      "description": "",
+      "evmChainId": 10850,
+      "vmName": "EVM",
+      "vmId": "ae3HBgfy2smdk94GurMennLqotTvKwQeM8PRkALo7HKQRxZUc",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

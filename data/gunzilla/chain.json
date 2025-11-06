@@ -1,0 +1,37 @@
+{
+  "subnetId": "9ewhue9Lyryt1G4H1icgZotc6wRVwiPgmiVemSN24JXwg91JH",
+  "network": "mainnet",
+  "categories": [
+    "GAMING"
+  ],
+  "name": "Gunzilla",
+  "description": "Gunzilla Games is a AAA game studio pushing blockchain integration into high-fidelity shooters. Built on Avalanche, its flagship titles blend immersive gameplay with true asset ownership through NFTs, bridging triple-A and web3 gaming economies.",
+  "logo": "https://cdn.snowpeer.io/gunzilla.png",
+  "website": "https://gunzillagames.com",
+  "socials": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/GunzillaGames"
+    },
+    {
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/company/gunzilla-games"
+    },
+    {
+      "name": "facebook",
+      "url": "https://www.facebook.com/GunzillaGames"
+    }
+  ],
+  "chains": [
+    {
+      "blockchainId": "222KARi6VgSZXbewFp1BvZgyuSKVa9JPb7swhbwN9fUHFKgxUD",
+      "name": "gunzilla",
+      "description": "",
+      "evmChainId": 43512,
+      "vmName": "EVM",
+      "vmId": "YUKPT5yt72CKSu4gD4gaRhkSAEtqcGycn2tfyz1Vq7oVF1sc8",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

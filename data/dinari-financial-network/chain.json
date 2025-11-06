@@ -1,0 +1,25 @@
+{
+  "subnetId": "2Ee4oBUute1PV5XaeS4b256eLH98r4NE8YgzX5nSX4cUxvtgre",
+  "network": "mainnet",
+  "categories": [
+    "FINANCE",
+    "RWA"
+  ],
+  "name": "Dinari Financial Network",
+  "description": "The Dinari Financial Network is the hub for the issuance, trading, settlement, and clearing of tokenized securities and other financial instruments.",
+  "logo": "https://cdn.snowpeer.io/dinari.png",
+  "website": "https://dinari.com",
+  "socials": [],
+  "chains": [
+    {
+      "blockchainId": "C5GXnNHNEfDxUydtjZ5B5J6XspdAZJGLsX3u4wxCXZgE3N4Gq",
+      "name": "Dinari Financial Network",
+      "description": "",
+      "evmChainId": 202110,
+      "vmName": "EVM",
+      "vmId": "",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

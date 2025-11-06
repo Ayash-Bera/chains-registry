@@ -1,0 +1,44 @@
+{
+  "subnetId": "Vn3aX6hNRstj5VHHm63TCgPNaeGnRSqCYXQqemSqDd2TQH4qJ",
+  "network": "mainnet",
+  "categories": [
+    "GAMING",
+    "NFT"
+  ],
+  "name": "DFK",
+  "description": "Defi Kingdoms is a play-to-earn fantasy RPG built on Avalanche, blending decentralized finance (DeFi) with blockchain gaming. Players can trade, stake, and battle while earning rewards through its in-game economy and liquidity pools.",
+  "logo": "https://cdn.snowpeer.io/dfk.png",
+  "website": "https://defikingdoms.com",
+  "socials": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/DefiKingdoms"
+    },
+    {
+      "name": "reddit",
+      "url": "https://www.reddit.com/r/DefiKingdoms/"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.gg/defikingdoms"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/defikingdoms"
+    }
+  ],
+  "chains": [
+    {
+      "blockchainId": "q2aTwKuyzgs8pynF7UXBZCU7DejbZbZ6EUyHr3JQzYgwNPUPi",
+      "name": "DFK Chain",
+      "description": "The vision for the DFK Avalanche L1 is to become the go-to location for community members and projects to launch GameFi and other blockchain gaming experiences in conjunction with the primary offering of DeFi Kingdoms: Crystalvale.",
+      "evmChainId": 53935,
+      "vmName": "EVM",
+      "vmId": "mDV3QWRXfwgKUWb9sggkv4vQxAQR4y2CyKrt5pLZ5SzQ7EHBv",
+      "rpcUrls": [
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+      ],
+      "assets": []
+    }
+  ]
+}

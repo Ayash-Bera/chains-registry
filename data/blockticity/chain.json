@@ -1,0 +1,37 @@
+{
+  "subnetId": "2Ypm6RVhddu5Ps8DEbb35Y1PgX4uXE76yyxn6JMhnZy8ftAFLW",
+  "network": "mainnet",
+  "categories": [
+    "CERTIFICATION"
+  ],
+  "name": "Blockticity",
+  "description": "Verification layer for digital conformity assessment. Making trade documents tamper-evident, standards-aligned, and AI-verifiable. Trustless Trade at Scale.",
+  "logo": "https://cdn.snowpeer.io/blockticity.png",
+  "website": "https://blockticity.io",
+  "socials": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/blockticity"
+    },
+    {
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/company/blockticity/about/?viewAsMember=true"
+    },
+    {
+      "name": "instagram",
+      "url": "https://www.instagram.com/blockticity1"
+    }
+  ],
+  "chains": [
+    {
+      "blockchainId": "2pV5K35V1ohNSYhRU3z1Bud2oZys9bak7QYcmvbVvnieh4FJXc",
+      "name": "Blockticity",
+      "description": "",
+      "evmChainId": 28530,
+      "vmName": "EVM",
+      "vmId": "",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

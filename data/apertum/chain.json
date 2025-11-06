@@ -1,0 +1,27 @@
+{
+  "subnetId": "2Y83BEXg7zgSCJunL2KD2i1vjMfaMnU1QEpG4M7acqG44BnRto",
+  "network": "mainnet",
+  "categories": [
+    "L1",
+    "DEFI",
+    "NFT",
+    "EVM"
+  ],
+  "name": "Apertum",
+  "description": "Apertum empowers users with full control over their digital assets, offering Web3 solutions for DApps, gaming, NFTs, and more.",
+  "logo": "https://cdn.snowpeer.io/apertum.png",
+  "website": "https://apertum.io",
+  "socials": [],
+  "chains": [
+    {
+      "blockchainId": "YDJ1r9RMkewATmA7B35q1bdV18aywzmdiXwd9zGBq3uQjsCnn",
+      "name": "Apertum",
+      "description": "",
+      "evmChainId": 2786,
+      "vmName": "EVM",
+      "vmId": "",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "subnetId": "T6XNCf5qHYhJigDcGtjTaGvfiQGRW8JVXTyPza9eZBfCGyDF",
+  "network": "mainnet",
+  "categories": [
+    "GAMING"
+  ],
+  "name": "Mintara",
+  "description": "Mintera is a platform that integrates blockchain technology to enhance societal efficiency. It creates a tokenized ecosystem designed to improve resource management and productivity across various industries.",
+  "logo": "https://cdn.snowpeer.io/mintara.png",
+  "website": "https://playthink.co.jp",
+  "socials": [],
+  "chains": [
+    {
+      "blockchainId": "2BfgPNjJhrirnfeLD9bkNbKMwWvernQkQFNYnYTDHnb6kwNRJe",
+      "name": "mintara",
+      "description": "",
+      "evmChainId": 1080,
+      "vmName": "EVM",
+      "vmId": "qBnANjFRAUssEi9jfjviksjMrcZvcKMAPZtR9WDPivwW8G9PY",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}

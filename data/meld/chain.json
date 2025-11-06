@@ -1,0 +1,44 @@
+{
+  "subnetId": "2ibTg9ruyJRQf4NpRbkd1Utcfayo3gRRpkoWGCWNC3oXTZoYCe",
+  "network": "mainnet",
+  "categories": [
+    "FINANCE",
+    "DEFI"
+  ],
+  "name": "MELD",
+  "description": "The Meld Network is one of the key pieces of the MELD protocol. It supports the smart contracts and operations of the financial products developed by MELD in a composable, interoperable way.",
+  "logo": "https://cdn.snowpeer.io/meld.png",
+  "website": "https://www.meld.com",
+  "socials": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/onMELD"
+    },
+    {
+      "name": "medium",
+      "url": "https://medium.com/onmeld"
+    },
+    {
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/company/onmeld/"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.com/invite/onmeld"
+    }
+  ],
+  "chains": [
+    {
+      "blockchainId": "W6m4NgS2ie2LJerquYAt7V6fVXVAMmjvYFsWWtyjDY97exGTy",
+      "name": "meld",
+      "description": "The Meld Subnet is one of the key pieces of the MELD protocol. It supports the smart contracts and operations of the financial products developed by MELD in a composable, interoperable way.",
+      "evmChainId": 333000333,
+      "vmName": "EVM",
+      "vmId": "qBNy2jVdA34ynZUSP7Q1nBQovhQHq5vfGxrKRYey9ojJia944",
+      "rpcUrls": [
+        "https://subnets.avax.network/meld/mainnet/rpc"
+      ],
+      "assets": []
+    }
+  ]
+}

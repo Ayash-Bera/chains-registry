@@ -1,0 +1,26 @@
+{
+  "subnetId": "6uH9zL2ZhPLWB1W1qodgRRm42YfLWdPKtQe2xzAWjr5TAhkmm",
+  "network": "mainnet",
+  "categories": [
+    "INFRA"
+  ],
+  "name": "AMI",
+  "description": "From meme index to meme infrastructure—AMI Chain is now a full-fledged Layer 1 blockchain supercharging Avalanche's meme economy with cross-chain interoperability and enhanced tracking tools.",
+  "logo": "https://cdn.snowpeer.io/ami.png",
+  "website": "https://www.amichain.org/",
+  "socials": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/amichain_org"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.com/invite/zxkTcFEE4U"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/amiavax"
+    }
+  ],
+  "chains": []
+}

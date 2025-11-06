@@ -1,0 +1,29 @@
+{
+  "subnetId": "2TqrQau4E99KoUXcFjyf1Pek3rUHpDpqtN9rC5GDaCKFu7dfPo",
+  "network": "mainnet",
+  "categories": [
+    "HEALTH"
+  ],
+  "name": "Good Care",
+  "description": "Purpose-driven blockchain built on Avalanche for mental wealth, transparency, and regnerative care.",
+  "logo": "https://cdn.snowpeer.io/goodcare.png",
+  "website": "https://goodonavax.info/",
+  "socials": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/GoodonAvax"
+    }
+  ],
+  "chains": [
+    {
+      "blockchainId": "2AB5dDcGsw86kroZ81AZXzdez3CgA1x9uXkyQDhxr98hjrkVhu",
+      "name": "Good Care",
+      "description": "",
+      "evmChainId": 741741,
+      "vmName": "EVM",
+      "vmId": "",
+      "rpcUrls": [],
+      "assets": []
+    }
+  ]
+}
