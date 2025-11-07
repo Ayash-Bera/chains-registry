@@ -492,23 +492,19 @@ jobs:
 
           # Create summary report
           scope = "in this PR" if changed_files else "(sample)"
-          report = f"""## Validation Report
-
-**Status:** All required validations passed
-
-### Summary
-- Chains checked {scope}: {chain_count}
-- URL warnings: {len(url_warnings)}
-- RPC warnings: {len(rpc_warnings)}
-- Quality warnings: {len(quality_warnings)}
-
-"""
+          report = "## Validation Report\n\n"
+          report += "Status: All required validations passed\n\n"
+          report += "### Summary\n"
+          report += f"- Chains checked {scope}: {chain_count}\n"
+          report += f"- URL warnings: {len(url_warnings)}\n"
+          report += f"- RPC warnings: {len(rpc_warnings)}\n"
+          report += f"- Quality warnings: {len(quality_warnings)}\n\n"
 
           if url_warnings or rpc_warnings or quality_warnings:
               report += "### Warnings (Non-blocking)\n\n"
 
               if url_warnings:
-                  report += "**URL Issues:**\n"
+                  report += "URL Issues:\n"
                   for w in url_warnings[:5]:
                       report += f"- {w}\n"
                   if len(url_warnings) > 5:
@@ -516,7 +512,7 @@ jobs:
                   report += "\n"
 
               if rpc_warnings:
-                  report += "**RPC Issues:**\n"
+                  report += "RPC Issues:\n"
                   for w in rpc_warnings[:5]:
                       report += f"- {w}\n"
                   if len(rpc_warnings) > 5:
@@ -524,7 +520,7 @@ jobs:
                   report += "\n"
 
               if quality_warnings:
-                  report += "**Content Quality:**\n"
+                  report += "Content Quality:\n"
                   for w in quality_warnings[:5]:
                       report += f"- {w}\n"
                   if len(quality_warnings) > 5:
