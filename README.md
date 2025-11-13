@@ -2,7 +2,7 @@
 
 A comprehensive, community-maintained registry of Avalanche L1 chains with detailed metadata, social links, and technical specifications.
 
-[![Validate Chain Data](https://github.com/l1beat/chains-registry/actions/workflows/validate-pr.yml/badge.svg)](https://github.com/l1beat/chains-registry/actions/workflows/validate-pr.yml)
+[![Validate Chain Data](https://github.com/L1Beat/l1-registry/actions/workflows/validate-pr.yml/badge.svg)](https://github.com/L1Beat/l1-registry/actions/workflows/validate-pr.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ##  Stats
@@ -19,7 +19,7 @@ Each L1 chain has its own folder containing:
 - `README.md` - Human-readable documentation
 
 ```
-chains-registry/
+l1-registry/
 ├── README.md (this file)
 ├── CONTRIBUTING.md (contribution guide)
 ├── LICENSE
@@ -89,13 +89,13 @@ Simply browse the folders to explore different L1 chains. Each folder contains:
 
 ```bash
 # Clone the repository
-git clone https://github.com/l1beat/chains-registry.git
+git clone https://github.com/L1Beat/l1-registry.git
 
 # Access any chain's data
-cat chains-registry/data/dexalot/chain.json
+cat l1-registry/data/dexalot/chain.json
 
 # Use in your application
-import chainData from './chains-registry/data/dexalot/chain.json';
+import chainData from './l1-registry/data/dexalot/chain.json';
 ```
 
 ## Contributing
@@ -189,8 +189,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 - **Website**: [l1beat.io](https://l1beat.io)
-- **Issues**: [GitHub Issues](https://github.com/l1beat/chains-registry/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/l1beat/chains-registry/discussions)
+- **Issues**: [GitHub Issues](https://github.com/L1Beat/l1-registry/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/L1Beat/l1-registry/discussions)
 
 ---
 

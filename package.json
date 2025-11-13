@@ -1,5 +1,5 @@
 {
-  "name": "avalanche-chains-registry",
+  "name": "avalanche-l1-registry",
   "version": "1.0.0",
   "description": "Community-maintained registry of Avalanche L1 chains",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/l1beat/chains-registry.git"
+    "url": "https://github.com/L1Beat/l1-registry.git"
   },
   "keywords": [
     "avalanche",
@@ -21,7 +21,7 @@
   "author": "L1Beat",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/l1beat/chains-registry/issues"
+    "url": "https://github.com/L1Beat/l1-registry/issues"
   },
-  "homepage": "https://github.com/l1beat/chains-registry#readme"
+  "homepage": "https://github.com/L1Beat/l1-registry#readme"
 }

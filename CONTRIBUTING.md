@@ -7,9 +7,9 @@ Thank you for contributing to the Avalanche L1 Chains Registry! This guide will 
 ### 1. Fork and Clone
 
 ```bash
-git fork https://github.com/l1beat/chains-registry
-git clone https://github.com/YOUR_USERNAME/chains-registry
-cd chains-registry
+git fork https://github.com/L1Beat/l1-registry
+git clone https://github.com/YOUR_USERNAME/l1-registry
+cd l1-registry
 ```
 
 ### 2. Create a New Branch
