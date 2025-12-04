@@ -23,17 +23,6 @@ Avalanche is a highly scalable, eco-friendly blockchain platform offering sub-se
 
 - `https://api.avax.network/ext/bc/C/rpc`
 
-### X-Chain
-
-- **Blockchain ID**: `2oYMBNV4eNHyqk2fjjV5nVQLDbtmNJzq5s3qs3Lo6ftnC6FByM`
-- **VM**: AVM
-- **VM ID**: `jvYyfQTxGMJLuGWa55kdP2p2zSUYsQ5Raupu4TW34ZAUBAbtq`
-
-### P-Chain
-
-- **Blockchain ID**: `11111111111111111111111111111111LpoYY`
-- **VM**: PVM
-- **VM ID**: `11111111111111111111111111111111LpoYY`
 
 ## Links
 
