@@ -2,6 +2,14 @@
   "name": "avalanche-l1-registry",
   "version": "1.0.0",
   "description": "Community-maintained registry of Avalanche L1 chains",
+  "main": "index.js",
+  "files": [
+    "data/**/*",
+    "scripts/**/*",
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
   "scripts": {
     "validate": "node ../L1Beat-backend/src/scripts/validateChainsRegistry.js",
     "validate:single": "./scripts/validate-single.sh"
@@ -9,6 +17,9 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/L1Beat/l1-registry.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   },
   "keywords": [
     "avalanche",
